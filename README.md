@@ -6,10 +6,10 @@ This React application aims to provide a comprehensive explanation of fundamenta
 
 **Key Features**
 
-Clear and concise explanations: In-depth coverage of React fundamentals.
-Interactive demonstrations: Hands-on experience with React concepts.
-Visual aids: Snapshots and diagrams to enhance understanding.
-Vite-powered development: Fast build times and hot module replacement for efficient development.
+**Clear and concise explanations:** In-depth coverage of React fundamentals.<br/>
+**Interactive demonstrations:** Hands-on experience with React concepts.<br/>
+**Visual aids:** Snapshots and diagrams to enhance understanding.<br/>
+**Vite-powered development:** Fast build times and hot module replacement for efficient development.<br/>
 
 ![snapshot_1](app-snapshots/react-app_1.png)
 ![snapshot_2](app-snapshots/react-app_2.png)
